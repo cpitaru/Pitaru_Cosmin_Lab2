@@ -24,10 +24,5 @@ namespace Pitaru_Cosmin_Lab2
         {
             InitializeComponent();
         }
-
-        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
-        {
-
-        }
     }
 }
